@@ -1,5 +1,8 @@
 # ligne très importante qui appelle la gem.
 require 'twitter'
+require 'dotenv'
+Dotenv.load
+
 
 # n'oublie pas les lignes pour Dotenv ici…
 
