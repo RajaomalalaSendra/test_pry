@@ -15,4 +15,4 @@ client = Twitter::REST::Client.new do |config|
 end
 
 # ligne qui permet de tweeter sur ton compte
-client.update('Mon deuxieme tweet en Ruby !!!!:smiley:')
+client.update('Watashi wa sendara desu.')
